@@ -5,7 +5,11 @@ object-oreinted programming, encapuslation, and operator overloading. This is a 
 that acts as a Phonebook app.
 
 Possible Future Changes:
+
   1.) a database to create persistence 
+  
   2.) GUI 
+  
   3.) give user ability to create a account
+  
       -> create a web application to accompany the desktop app
